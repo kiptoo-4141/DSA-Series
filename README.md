@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3931-process-string-with-special-operations-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3939-process-string-with-special-operations-ii) |
+## Math
+|  |
+| ------- |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Sumit19dhama/DSA-Series/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
