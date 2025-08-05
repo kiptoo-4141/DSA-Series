@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0040-combination-sum-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit19dhama/DSA-Series/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit19dhama/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit19dhama/DSA-Series/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
