@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Sumit19dhama/DSA-Series/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sumit19dhama/DSA-Series/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0040-combination-sum-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0647-palindromic-substrings) |
 ## String
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
