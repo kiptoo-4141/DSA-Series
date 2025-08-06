@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sumit19dhama/DSA-Series/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3791-fruits-into-baskets-iii) |
+| [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit19dhama/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Sumit19dhama/DSA-Series/tree/master/0940-fruit-into-baskets) |
+| [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3791-fruits-into-baskets-iii) |
+| [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit19dhama/DSA-Series/tree/master/0128-longest-consecutive-sequence) |
+| [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -124,4 +128,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sumit19dhama/DSA-Series/tree/master/0146-lru-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
