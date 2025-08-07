@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Sumit19dhama/DSA-Series/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
@@ -177,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0394-decode-string) |
+## Tree
+|  |
+| ------- |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Sumit19dhama/DSA-Series/tree/master/0998-check-completeness-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Sumit19dhama/DSA-Series/tree/master/0998-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
