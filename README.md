@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Sumit19dhama/DSA-Series/tree/master/0940-fruit-into-baskets) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sumit19dhama/DSA-Series/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sumit19dhama/DSA-Series/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3791-fruits-into-baskets-iii) |
 | [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0647-palindromic-substrings) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sumit19dhama/DSA-Series/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Union Find
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sumit19dhama/DSA-Series/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sumit19dhama/DSA-Series/tree/master/0037-sudoku-solver) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sumit19dhama/DSA-Series/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Recursion
 |  |
 | ------- |
