@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0647-palindromic-substrings) |
 | [0837-most-common-word](https://github.com/Sumit19dhama/DSA-Series/tree/master/0837-most-common-word) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1764-maximum-repeating-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1764-maximum-repeating-substring) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2476-check-distances-between-same-letters](https://github.com/Sumit19dhama/DSA-Series/tree/master/2476-check-distances-between-same-letters) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sumit19dhama/DSA-Series/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0394-decode-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
