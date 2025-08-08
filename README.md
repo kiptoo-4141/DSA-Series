@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sumit19dhama/DSA-Series/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0837-most-common-word](https://github.com/Sumit19dhama/DSA-Series/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/Sumit19dhama/DSA-Series/tree/master/0940-fruit-into-baskets) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Sumit19dhama/DSA-Series/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sumit19dhama/DSA-Series/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2476-check-distances-between-same-letters](https://github.com/Sumit19dhama/DSA-Series/tree/master/2476-check-distances-between-same-letters) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/Sumit19dhama/DSA-Series/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sumit19dhama/DSA-Series/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Sumit19dhama/DSA-Series/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2892-check-if-array-is-good](https://github.com/Sumit19dhama/DSA-Series/tree/master/2892-check-if-array-is-good) |
 ## Counting
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Sumit19dhama/DSA-Series/tree/master/0561-array-partition) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Sumit19dhama/DSA-Series/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Counting Sort
 |  |
 | ------- |
