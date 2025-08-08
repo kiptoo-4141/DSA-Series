@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit19dhama/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Sumit19dhama/DSA-Series/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Sumit19dhama/DSA-Series/tree/master/0575-distribute-candies) |
 | [0940-fruit-into-baskets](https://github.com/Sumit19dhama/DSA-Series/tree/master/0940-fruit-into-baskets) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0229-majority-element-ii) |
+| [0561-array-partition](https://github.com/Sumit19dhama/DSA-Series/tree/master/0561-array-partition) |
 | [2892-check-if-array-is-good](https://github.com/Sumit19dhama/DSA-Series/tree/master/2892-check-if-array-is-good) |
 ## Counting
 |  |
@@ -210,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0826-soup-servings) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Sumit19dhama/DSA-Series/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Sumit19dhama/DSA-Series/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
