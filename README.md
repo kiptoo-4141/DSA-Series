@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Sumit19dhama/DSA-Series/tree/master/0231-power-of-two) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sumit19dhama/DSA-Series/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0523-continuous-subarray-sum) |
 | [0826-soup-servings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0826-soup-servings) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Sumit19dhama/DSA-Series/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sumit19dhama/DSA-Series/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0394-decode-string) |
 ## Tree
 |  |
