@@ -1,25 +1,37 @@
 class Solution {
     public int longestSubstring(String s, int k) {
-        if (s == null || s.length() == 0 || k > s.length()) return 0;
-        return helper(s, k);
-    }
+        int maxLen = 0;
+        int n = s.length();
 
-    private static int helper(String s, int k) {
-        if (s.length() < k) return 0;
+        for (int targetUnique = 1; targetUnique <= 26; targetUnique++) {
+            int[] freq = new int[26];
+            int left = 0, right = 0, uniqueCount = 0, countAtLeastK = 0;
 
-        int[] freq = new int[26];
-        for (char c : s.toCharArray()) {
-            freq[c - 'a']++;
-        }
+            while (right < n) {
+                // Expand window
+                if (uniqueCount <= targetUnique) {
+                    int idx = s.charAt(right) - 'a';
+                    if (freq[idx] == 0) uniqueCount++;
+                    freq[idx]++;
+                    if (freq[idx] == k) countAtLeastK++;
+                    right++;
+                }
+                // Shrink window
+                else {
+                    int idx = s.charAt(left) - 'a';
+                    if (freq[idx] == k) countAtLeastK--;
+                    freq[idx]--;
+                    if (freq[idx] == 0) uniqueCount--;
+                    left++;
+                }
 
-        for (int i = 0; i < s.length(); i++) {
-            if (freq[s.charAt(i) - 'a'] < k) {
-                int left = helper(s.substring(0, i), k);
-                int right = helper(s.substring(i + 1), k);
-                return Math.max(left, right);
+                // Check if valid substring
+                if (uniqueCount == targetUnique && uniqueCount == countAtLeastK) {
+                    maxLen = Math.max(maxLen, right - left);
+                }
             }
         }
 
-        return s.length();
+        return maxLen;
     }
 }
