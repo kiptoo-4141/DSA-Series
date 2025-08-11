@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sumit19dhama/DSA-Series/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2476-check-distances-between-same-letters](https://github.com/Sumit19dhama/DSA-Series/tree/master/2476-check-distances-between-same-letters) |
+| [2529-range-product-queries-of-powers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2529-range-product-queries-of-powers) |
 | [2892-check-if-array-is-good](https://github.com/Sumit19dhama/DSA-Series/tree/master/2892-check-if-array-is-good) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sumit19dhama/DSA-Series/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3790-fruits-into-baskets-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit19dhama/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sumit19dhama/DSA-Series/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2529-range-product-queries-of-powers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Sumit19dhama/DSA-Series/tree/master/0231-power-of-two) |
+| [2529-range-product-queries-of-powers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2529-range-product-queries-of-powers) |
 ## Rolling Hash
 |  |
 | ------- |
